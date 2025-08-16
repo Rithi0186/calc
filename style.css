@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(236, 202, 252);
+}
+.calculate{
+    display: flex;
+    flex-wrap: wrap;
+    width: 220px;
+    background-color: #fafafa;
+    padding: 10px;
+    margin: 90px;
+    border-radius: 5px;
+
+}
+#display{
+    width: 100%;
+    padding: 10px;
+    background-color:#ebf4f3;
+    border: none;
+
+}
+h1{
+    margin-bottom: 6px;
+    padding: 4px;
+}
+.btn{
+margin-top: 8px;
+padding: 10px;
+border-radius: 50%;
+border: rgb(170, 170, 179);
+background-color:#ebf4f3;
+width: 50px;
+height: 50px;
+margin-bottom: 10px;
+}
